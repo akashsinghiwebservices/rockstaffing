@@ -1,0 +1,8 @@
+{
+    "project_name": "Rock Staffing",
+    "version": "v1",
+    "secret_key": "secre@tke@y",
+    "token_expiry_time": "10h",
+    "port": 3000
+}
+
